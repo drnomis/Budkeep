@@ -1,2 +1,2 @@
 Välkommen till vår handbok!
-Först och främst, 
+Först och främst så behöver du en editor.
